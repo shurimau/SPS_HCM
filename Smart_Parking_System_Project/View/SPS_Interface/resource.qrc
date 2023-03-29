@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>img/Frame 1.png</file>
+        <file>img/Group 1 1.png</file>
+        <file>img/ic_outline-cloud 1.png</file>
+        <file>img/image 4.png</file>
+        <file>img/image 5.png</file>
+        <file>img/image 6.png</file>
+        <file>img/Rectangle 3.png</file>
+        <file>img/Rectangle 4.png</file>
+        <file>img/Rectangle 5.png</file>
+        <file>img/Rectangle 8.png</file>
+        <file>img/Rectangle 9.png</file>
+        <file>img/Rectangle 10.png</file>
+        <file>img/Rectangle 33.png</file>
+        <file>img/SaverScreen_txt_Location.png</file>
+        <file>img/WAITING_Screen.png</file>
+    </qresource>
+</RCC>
